@@ -1,1 +1,1 @@
-# pytorch_embedding
+# Recommendation system & Item embedding
